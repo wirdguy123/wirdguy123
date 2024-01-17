@@ -10,7 +10,6 @@
 I have been down the drain of coding youtube tutorials and one of them told me to network so I am trying to using github and twitter.
 If you want to follow me on twitter I am @homealon300
 
-<!---
-wirdguy123/wirdguy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+I'd also like to mention, incase anyone is worndering (I get asked this question alot), Bolth the username wirdguy123(GitHub) and @homealon300(Twitter) are misspelled intentionally (But I did have to look up intentionally)
